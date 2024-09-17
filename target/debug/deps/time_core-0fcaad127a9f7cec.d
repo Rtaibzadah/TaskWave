@@ -1,0 +1,9 @@
+/Users/roman/Desktop/todo/target/debug/deps/libtime_core-0fcaad127a9f7cec.rmeta: /Users/roman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-core-0.1.2/src/lib.rs /Users/roman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-core-0.1.2/src/convert.rs /Users/roman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-core-0.1.2/src/util.rs
+
+/Users/roman/Desktop/todo/target/debug/deps/libtime_core-0fcaad127a9f7cec.rlib: /Users/roman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-core-0.1.2/src/lib.rs /Users/roman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-core-0.1.2/src/convert.rs /Users/roman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-core-0.1.2/src/util.rs
+
+/Users/roman/Desktop/todo/target/debug/deps/time_core-0fcaad127a9f7cec.d: /Users/roman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-core-0.1.2/src/lib.rs /Users/roman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-core-0.1.2/src/convert.rs /Users/roman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-core-0.1.2/src/util.rs
+
+/Users/roman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-core-0.1.2/src/lib.rs:
+/Users/roman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-core-0.1.2/src/convert.rs:
+/Users/roman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-core-0.1.2/src/util.rs:
